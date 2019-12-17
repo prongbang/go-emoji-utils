@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/tmdvs/Go-Emoji-Utils/utils"
+	"github.com/prongbang/go-emoji-utils/utils"
 )
 
 // Emoji - Struct representing Emoji
